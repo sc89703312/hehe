@@ -27,6 +27,6 @@ public class Test {
     	 
     	 
     	 
-    	 System.out.println(a.getX() +a.getY() +a.getZ());
+//    	 System.out.println(a.getX() +a.getY() +a.getZ());
      }
 }
