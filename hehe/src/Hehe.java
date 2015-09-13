@@ -5,7 +5,7 @@ import java.io.*;
 
 public class Hehe  implements Serializable{
 	
-	public int x=3;
+	public int x=4;
 	transient long y=4;
 	private short z=5;
 	
